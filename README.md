@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Pacman Eating My Contributions](https://raw.githubusercontent.com/baneyab/baneyab/output/pacman-contribution-graph.svg)
+![Snake animation](https://raw.githubusercontent.com/baneyab/baneyab/output/github-contribution-grid-snake-dark.svg)
