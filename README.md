@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Pacman Eating My Contributions](https://raw.githubusercontent.com/baneyab/baneyab/output/pacman-contribution-graph.svg)
